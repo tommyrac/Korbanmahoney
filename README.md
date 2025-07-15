@@ -253,3 +253,13 @@ It's based on the [Bootstrap](https://getbootstrap.com/) framework created by Ma
 ## Copyright and License
 
 Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE) license, providing complete freedom for utilization. Feel free to enhance and adapt it to suit your needs.
+
+
+Some interesting information about dinosuars:
+
+Surprising Discoveries
+Birds are dinosaurs: Modern birds are actually classified as avian dinosaurs, direct descendants of theropod dinosaurs. This means dinosaurs never truly went extinct!
+
+Feathered dinosaurs: Many non-avian dinosaurs, including velociraptors, had feathers. Recent fossil discoveries show that feathers were much more common among dinosaurs than previously thought.
+
+Size extremes: The largest known dinosaur, Argentinosaurus, may have weighed up to 100 tons—equivalent to 14 adult elephants. Meanwhile, the smallest dinosaur discovered, Microraptor, was roughly the size of a crow.
